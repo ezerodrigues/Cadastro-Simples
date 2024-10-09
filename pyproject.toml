@@ -1,18 +1,16 @@
-<<<<<<< HEAD
 [tool.poetry]
-name = "cadastro-clientes"
+name = "cadastro-simples"
 version = "0.1.0"
 description = ""
-authors = ["ezerodrigues"]
+authors = ["ezerodrigues <ezerodrigues@msn.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-streamlit = "^1.37.0"
-pandas = "^2.2.2"
+streamlit = "^1.39.0"
+pandas = "^2.2.3"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
->>>>>>> 7e3392b (first update)
