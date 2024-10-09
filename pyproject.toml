@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [tool.poetry]
 name = "cadastro-clientes"
 version = "0.1.0"
@@ -14,3 +15,4 @@ pandas = "^2.2.2"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+>>>>>>> 7e3392b (first update)

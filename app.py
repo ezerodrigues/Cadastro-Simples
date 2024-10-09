@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 from datetime import date
@@ -40,3 +41,4 @@ if btn_cadastrar:
         st.error("Houve algum problema no cadastro",
                  icon="❌")
 
+>>>>>>> 7e3392b (first update)
