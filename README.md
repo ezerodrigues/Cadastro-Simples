@@ -106,15 +106,15 @@ Cadastro-Simples/
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, novas funcionalidades ou correções de bugs, sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
-## 📄 Licença
-
-Este projeto não possui uma licença definida. Recomenda-se adicionar uma licença (como MIT, Apache 2.0, etc.) para esclarecer os termos de uso e distribuição.
-
 ## 👨‍💻 Autor
 
 **Eliézer Rodrigues**
 
 - GitHub: [ezerodrigues](https://github.com/ezerodrigues)
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
 
