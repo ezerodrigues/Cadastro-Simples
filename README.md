@@ -110,10 +110,12 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias, novas f
 
 Este projeto não possui uma licença definida. Recomenda-se adicionar uma licença (como MIT, Apache 2.0, etc.) para esclarecer os termos de uso e distribuição.
 
-## 👤 Autor
+## 👨‍💻 Autor
 
-*   **Eliézer Rodrigues** - [ezerodrigues](https://github.com/ezerodrigues)
+**Eliézer Rodrigues**
+
+- GitHub: [ezerodrigues](https://github.com/ezerodrigues)
 
 ---
 
-Feito com Python!
+⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
